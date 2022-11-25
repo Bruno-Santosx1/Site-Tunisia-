@@ -1,0 +1,22 @@
+#Brasao {
+  width: 200px;
+  margin-left: 850px
+}
+
+#bandeira{
+  width: 300px;
+  margin-left: 805px
+}
+
+#elenco{
+  width: 500px;
+  margin-left: 700px
+}
+
+body{
+  background: #9bbcc9
+}
+
+.titulo {
+  color: #ffffff
+}
